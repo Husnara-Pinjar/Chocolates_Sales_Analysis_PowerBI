@@ -1,6 +1,6 @@
 # Chocolates_Sales_Analysis_PowerBI
 
-### 📋Project Overview:
+## 📋Project Overview:
 
 This project focuses on analysing Sales performance for Awesome chocolates company. 
 Our mission is to understand the sales trends, costs, number of box shipments, profits to understand the overall review of company.
@@ -10,17 +10,13 @@ The goal is to provide insightful visualizations and enhance sales performance t
 
 ### 🛠️Teck stack:
 
-### 1.Data Analysis:
-Excel, Power BI
+#### 1.Data Analysis: Excel,Power BI
 
-### 2.Data Visualization: 
-Power BI
+#### 2.Data Visualization: Power BI
 
-### 3.Data Transformation and Cleaning: 
-Power Query
+#### 3.Data Transformation and Cleaning: Power Query
 
-### 4.Data Modeling: 
-Star schema
+#### 4.Data Modeling: Star schema
 
 ### 💡Key Measures:
 
