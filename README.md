@@ -10,20 +10,34 @@ The goal is to provide insightful visualizations and enhance sales performance t
 
 ### 🛠️Teck stack:
 
-1. Data Analysis: Excel, Power BI
-2.Data Visualization: Power BI
-3.Data Transformation and Cleaning: Power Query
-4.Data Modeling: Star schema
+### 1.Data Analysis:
+Excel, Power BI
+
+### 2.Data Visualization: 
+Power BI
+
+### 3.Data Transformation and Cleaning: 
+Power Query
+
+### 4.Data Modeling: 
+Star schema
 
 ### 💡Key Measures:
 
 •	Total Sales
+
 •	Total Profit
+
 •	Total Costs
+
 •	Total Shipment
+
 •	Total Boxes
+
 •	MoM %
+
 •	LBS%
+
 •	Profit %
 
 ### 👩‍💻 What we can learn:
@@ -47,4 +61,5 @@ The goal is to provide insightful visualizations and enhance sales performance t
 
 ● Using data insights developed an interactive dashboard to analyse $34M total sales,
 $21M profits, $14M costs, 6K shipments and 2M boxes to inform sales strategies.
+
 ● Analysed MoM growth by using DAX measures, acquired 10.2% LBS in shipment analysis and attained 60.3% profit increase.
