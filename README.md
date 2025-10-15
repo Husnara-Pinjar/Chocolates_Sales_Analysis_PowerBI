@@ -52,6 +52,8 @@ The goal is to provide insightful visualizations and enhance sales performance t
 12.	Tooltips and Slicer.
 
 ### Data Model Overview:
+<img width="940" height="456" alt="image" src="https://github.com/user-attachments/assets/3e7bcd69-31dd-4121-bd73-85305f028030" />
+
  
 ### ⚡️Insights:
 
